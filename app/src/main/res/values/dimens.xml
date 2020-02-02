@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="orglist_width">200dp</dimen>
+
+    <dimen name="statusbar_view_height">0dp</dimen>
+
+    <dimen name="toolbar_margin_top">25dp</dimen>
+    <dimen name="statusbar_view_height_plus">30dp</dimen>
+</resources>
